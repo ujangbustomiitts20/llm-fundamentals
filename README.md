@@ -45,28 +45,3 @@ Dokumentasi Teori
 
 MIT – silakan gunakan dan sebarkan.
 
-
-## 2) `requirements.txt`
-```txt
-numpy==1.26.4
-pandas==2.2.2
-matplotlib==3.8.4
-transformers==4.45.2
-torch>=2.2.0
-tqdm==4.66.4
-
-3) .gitignore
-venv/
-__pycache__/
-.ipynb_checkpoints/
-*.pyc
-.DS_Store
-
-4) LICENSE
-
-Pilih MIT agar bebas dipakai:
-
-MIT License
-Copyright (c) 2025 ...
-
-Permission is hereby granted, free of charge, to any person obtaining a copy...
