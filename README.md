@@ -40,7 +40,7 @@ notebooks/04_transformer_explore.ipynb
 
 03_embedding.md
 
-04_transformer.md
+
 
 
 
