@@ -14,22 +14,19 @@ pip install -r requirements.txt
 
  Menjalankan Demo
 # 1. Teks input
-python src/01_text_input.py
+python3 01_text_input.py
 
 # 2. Tokenizer (HuggingFace)
-python src/02_tokenizer.py
+python 02_tokenizer.py
 
 # 3a. Embedding dasar (random init)
-python src/03_embedding_basics.py
+python 03_embedding_basics.py
 
 # 3b. Cosine similarity antar kata
-python src/03_embedding_similarity.py
+python 03_embedding_similarity.py
 
 
-Notebook opsional (jelajah transformer/attention):
-notebooks/04_transformer_explore.ipynb
-
- Dokumentasi Teori
+Dokumentasi Teori
 
 
 :
