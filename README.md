@@ -25,23 +25,13 @@ python 03_embedding_basics.py
 # 3b. Cosine similarity antar kata
 python 03_embedding_similarity.py
 
-
-Dokumentasi Teori
-
-
-:
-
+Dokumentasi Teori:
 01_text_input.md
-
 02_tokenizer.md
-
 03_embedding.md
 
 
-
-
-
-🔑 Lisensi
+Lisensi
 
 MIT – silakan gunakan dan sebarkan.
 
